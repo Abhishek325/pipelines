@@ -9,7 +9,7 @@ resources:
     type: GitRepo
     configuration:
       path: abhishek325/sample-script
-      gitProvider: git_v
+      gitProvider: abhishek_github
       branches: 
         include: master
         
